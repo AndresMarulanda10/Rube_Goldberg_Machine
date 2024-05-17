@@ -3071,7 +3071,7 @@ function gonzalezM2Init(data) {
         worldAdd(Bodies.rectangle(lx + 130 + 500, ly - 250 + (i * 500), 1000 + 40, 40, {
             isStatic: true,
             render: {
-                fillStyle: "#FFFFFF",
+                fillStyle: "FFFFFF",
             },
             collisionFilter: {
                 group: group,
