@@ -576,7 +576,6 @@ function draw() {
             runTranslatedHandler(drawConstraint, obj)
         }
     })
-    background(255)
 }
 
 function addStep(xDif, yDif, scale, time, untilNextStage) {
