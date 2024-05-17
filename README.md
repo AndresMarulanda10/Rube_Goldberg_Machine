@@ -1,25 +1,47 @@
-<div align="center">
+# 🚀 Rube Goldberg Machine
 
-# Rube Goldberg Machine
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-active-green?style=for-the-badge)](https://timothy-gonzalez.com/rube-goldberg-machine/)
-[![Video Demo](https://img.shields.io/badge/Video%20Demo-5%3A01-red?style=for-the-badge&logo=youtube)](https://youtu.be/VC8XEjUEASA)
+Este es un proyecto increíble que demuestra el funcionamiento de una máquina de Rube Goldberg que utiliza mecanismos tradicionales y teóricos para alcanzar un objetivo festivo. Aquí te explicamos cómo puedes ejecutarlo localmente o utilizando GitHub Codespaces.
 
-A Rube Goldberg machine that uses traditional and theoretical mechanisms to reach a festive goal.
+## 🛠️ Tecnologías Utilizadas
 
-Made by Timothy, Ronit, Jay
+Este proyecto fue creado utilizando:
 
-</div>
+- HTML5 Canvas: Para el dibujo de gráficos en 2D.
+- Matter.js: Un motor de física 2D para la web.
+- P5: Una biblioteca de JavaScript para la programación creativa.
+- JavaScript: El lenguaje de programación principal.
 
----
+## 🛠️ Ejecución Local
 
-Made using HTML5 canvas, Matter.js, P5, and of course JavaScript.
+1. Clona este repositorio en tu máquina local utilizando `git clone https://github.com/usuario/proyecto.git`
+2. Navega a la carpeta del proyecto con `cd proyecto`
+3. Instala las dependencias necesarias con `npm install` (asegúrate de tener Node.js instalado)
+4. Ejecuta el proyecto con `npm start`
 
-> ### Warning
-> The commit "history" is not ideal, be forewarned. We were the only people in our class who used git, and we were not well versed in it. I think we've all gotten much better since them, but for the purpose of history, the commit history shall be preserved.
+## 📚 Recursos
 
----
+Aquí hay algunos recursos útiles si estás interesado en las tecnologías que usamos:
 
-## Resources
-* https://brm.io/matter-js/
-* https://brm.io/matter-js/docs/
-* https://blog.alexandergottlieb.com/matter-js-the-missing-tutorial-70aafc06b167
+- [Matter.js](https://brm.io/matter-js/)
+- [Documentación de Matter.js](https://brm.io/matter-js/docs/)
+- [Tutorial de Matter.js](https://blog.alexandergottlieb.com/matter-js-the-missing-tutorial-70aafc06b167)
+
+## 🌐 Ejecución con GitHub Codespaces
+
+1. En GitHub, navega al repositorio del proyecto
+2. Haz clic en el botón "Code" y luego selecciona "Open with Codespaces"
+3. Una vez que tu Codespace esté listo, se abrirá en tu navegador
+
+> 💡 **Consejo:** Para una experiencia de desarrollo más fluida en GitHub Codespaces, recomendamos instalar la extensión Live Server. Esto te permitirá ver tus cambios en tiempo real.
+
+## 🤝 Contribuciones
+
+Las contribuciones son siempre bienvenidas! Por favor, lee las [directrices de contribución](CONTRIBUTING.md) primero.
+
+## 📝 Licencia
+
+Este proyecto está bajo la licencia [MIT](LICENSE).
+
+## 📧 Contacto
+
+Si tienes alguna pregunta, no dudes en contactarnos.
