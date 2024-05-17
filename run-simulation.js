@@ -696,7 +696,7 @@ function gonzalezM0(data) {
     let barrierColor = "#090909"
     let barrier2Color = "#ff8300"
     let barrier3Color = "#fa2525"
-    let objectColor = "#224b88"
+    let objectColor = "#00C9FF"
 
     let ys = 300
 
