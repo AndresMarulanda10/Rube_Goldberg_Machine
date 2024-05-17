@@ -391,6 +391,7 @@ function drawConstraint(constraint) {
 
 let volume = 0.1
 function draw() {
+    background(255);
     if (started) {
         if (lit) {
             volume -= (0.1) / 300
