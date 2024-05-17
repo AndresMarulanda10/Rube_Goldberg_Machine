@@ -694,7 +694,7 @@ function gonzalezM0(data) {
     }
 
     let barrierColor = "#090909"
-    let barrier2Color = "#ff8300"
+    let barrier2Color = "#FF66C4"
     let barrier3Color = "#fa2525"
     let objectColor = "#00C9FF"
 
@@ -3071,7 +3071,7 @@ function gonzalezM2Init(data) {
         worldAdd(Bodies.rectangle(lx + 130 + 500, ly - 250 + (i * 500), 1000 + 40, 40, {
             isStatic: true,
             render: {
-                fillStyle: "#1d1d1d",
+                fillStyle: "#FFFFFF",
             },
             collisionFilter: {
                 group: group,
@@ -3113,7 +3113,7 @@ function gonzalezM2Init(data) {
                     Body.setStatic(lever,false)
                     relTimeout(function() {
                         Body.setStatic(lever,true)
-                        screen.render.fillStyle = "#1a65f5"
+                        screen.render.fillStyle = "#FF66C4"
                         relTimeout(function() {
                             let count = 0;
                             stext.show = function() {
