@@ -531,6 +531,7 @@ function draw() {
     }
 
     noStroke()
+    background(255)
     fill(51)
     rect(-15, -15, width + 15, height + 15)
     let scaleFactor = Camera.scale * (constWindowWidth / baseW);
