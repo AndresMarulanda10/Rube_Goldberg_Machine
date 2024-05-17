@@ -760,7 +760,7 @@ function gonzalezM0(data) {
         textStyle(BOLD);
         textAlign(CENTER, CENTER);
         textSize(50);
-        text("CLICK to start", 0, 0)
+        text("Click para Iniciar", 0, 0)
         rectMode(CORNER)
         pop()
     }
